@@ -1,13 +1,13 @@
 ---
-title: 'Dynamic Routing and Static Generation'
+title: 'What is P.O.S.T ?'
 excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.'
-coverImage: '/assets/blog/dynamic-routing/cover.gif'
-date: '2020-03-16T05:35:07.322Z'
+coverImage: 'https://cdn.discordapp.com/attachments/605016448938803212/1024625860470390834/unknown.png'
+date: '2022-09-28T10:30:00.322Z'
 author:
-  name: JJ Kasper
-  picture: '/assets/blog/authors/jj.jpeg'
+  name: latoulicious
+  picture: '/assets/blog/authors/avatar1.png'
 ogImage:
-  url: '/assets/blog/dynamic-routing/cover.gif'
+  url: 'https://cdn.discordapp.com/attachments/605016448938803212/1024625860470390834/unknown.png'
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
