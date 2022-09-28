@@ -1,4 +1,4 @@
-export const EXAMPLE_PATH = 'blog-starter'
+export const EXAMPLE_PATH = ''
 export const CMS_NAME = 'P.O.S.T'
 export const HOME_OG_IMAGE_URL =
-  'https://og-image.vercel.app/Next.js%20Blog%20Starter%20Example.png?theme=light&md=1&fontSize=100px&images=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fnextjs-black-logo.svg'
+  'https://cdn.discordapp.com/splashes/605016448938803210/cf3865dabf8385ddc1ae552faac37a8b.jpg?size=2048'

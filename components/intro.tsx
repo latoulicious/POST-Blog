@@ -7,7 +7,7 @@ const Intro = () => {
         Dev.
       </h1>
       <h4 className="text-center md:text-left text-lg mt-6 md:pl-8">
-        {CMS_NAME}  Discord Community Blog.
+        Discord Community Blog.
       </h4>
     </section>
   )
