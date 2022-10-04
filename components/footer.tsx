@@ -16,7 +16,7 @@ const Footer = () => {
             >
               Github
             </a>
-            <iframe src="https://discord.com/widget?id=605016448938803210&theme=dark" width="512" height="500"  frameborder="20"
+            <iframe src="https://discord.com/widget?id=605016448938803210&theme=dark" width="512" height="500"  frameBorder="20"
             sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts">
             </iframe>
           </div>
