@@ -1,4 +1,4 @@
-# POSTBLOG
+# POST-BLOG
 
 > Discord Community Server built on Next.js
 
